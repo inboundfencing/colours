@@ -1,0 +1,74 @@
+{
+  "Basalt": {
+    "hex": "#6D6C6E",
+    "aliases": []
+  },
+  "Cottage Green": {
+    "hex": "#304C3C",
+    "aliases": ["Evergreen", "Caulfield Green"]
+  },
+  "Deep Ocean": {
+    "hex": "#364152",
+    "aliases": ["Bluestone", "Mountain Blue"]
+  },
+  "Domain": {
+    "hex": "#E8DBAE",
+    "aliases": ["Classic Cream", "Primrose"]
+  },
+  "Dune": {
+    "hex": "#B1ADA3",
+    "aliases": ["Seedpod", "Grey Birch"]
+  },
+  "Evening Haze": {
+    "hex": "#C5C2AA",
+    "aliases": ["Summershade", "Moss Vale Sand"]
+  },
+  "Ironstone": {
+    "hex": "#3E434C",
+    "aliases": []
+  },
+  "Jasper": {
+    "hex": "#6C6153",
+    "aliases": []
+  },
+  "Manor Red": {
+    "hex": "#5E1D0E",
+    "aliases": ["Heritage Red", "Red Oak"]
+  },
+  "Monument": {
+    "hex": "#323233",
+    "aliases": ["Shadow"]
+  },
+  "Night Sky": {
+    "hex": "#000000",
+    "aliases": ["Eclipse", "Ebony", "Black"]
+  },
+  "Pale Eucalypt": {
+    "hex": "#7C846A",
+    "aliases": ["Meadow", "Mist Green"]
+  },
+  "Paperbark": {
+    "hex": "#CABFA4",
+    "aliases": ["Terrace", "Merino"]
+  },
+  "Riversand": {
+    "hex": "#D1C6B1",
+    "aliases": ["Beige"]
+  },
+  "Shale Grey": {
+    "hex": "#BDBFBA",
+    "aliases": ["Snow Gum", "Gull Grey"]
+  },
+  "Surfmist": {
+    "hex": "#E4E2D5",
+    "aliases": ["Off White", "Frost", "White"]
+  },
+  "Wilderness": {
+    "hex": "#64715E",
+    "aliases": ["Willow", "Rivergum"]
+  },
+  "Woodland Grey": {
+    "hex": "#4B4C46",
+    "aliases": ["Grey Ridge", "Slate Grey"]
+  }
+}

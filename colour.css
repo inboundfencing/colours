@@ -1,0 +1,63 @@
+
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+  margin: 0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+.controls {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+select, button {
+  font-size: 1rem;
+  margin: 5px;
+  padding: 6px 10px;
+}
+
+#colour-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: 15px;
+}
+
+.colour-card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+
+.colour-card:hover {
+  transform: scale(1.03);
+}
+
+.swatch {
+  height: 80px;
+  width: 100%;
+}
+
+.info {
+  padding: 10px;
+  text-align: center;
+}
+
+.hex {
+  font-family: monospace;
+  color: #333;
+}
+
+.aliases {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 5px;
+}
+
